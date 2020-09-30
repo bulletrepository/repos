@@ -7,6 +7,7 @@ def savelog(data):
     savelog_file.write(time_str + '\t' + data+'\n')
     print(time_str + '\t' + data)
     savelog_file.close()
+    huehdihfis
 
 class Bulletrepository(object):
     SAVEPATH = r'D:\Users\python\savelog.txt'
